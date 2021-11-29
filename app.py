@@ -1,4 +1,3 @@
-from types import MethodDescriptorType
 from flask import Flask
 from flask import render_template, request
 from flaskext.mysql import MySQL
